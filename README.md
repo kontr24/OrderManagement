@@ -8,5 +8,5 @@ https://cloud.mail.ru/public/DrQv/VgCRn8ESZ
 <hr/>
 <h2 align="center">Главная форма</h2>
 <p align="center">
-  <a href="https://github.com/kontr24/CompanySellsParts/raw/d42b002b755d86653ca23ba28927e966755c2a57/ScreenshotsApplication/MainForm.png"><img src="https://github.com/kontr24/OrderManagement/blob/a11c03f4f186138f4242f81a20ab74e87b03513c/ScreenshotsApplication/MainForm.png"></img></a>
+  <a href="https://raw.githubusercontent.com/kontr24/OrderManagement/a11c03f4f186138f4242f81a20ab74e87b03513c/ScreenshotsApplication/MainForm.png"><img src="https://github.com/kontr24/OrderManagement/blob/a11c03f4f186138f4242f81a20ab74e87b03513c/ScreenshotsApplication/MainForm.png"></img></a>
 </p>
